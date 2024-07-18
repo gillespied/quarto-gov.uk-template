@@ -1,0 +1,9 @@
+project:
+  type: website
+  output-dir: _site
+
+format:
+  html:
+    template: custom-template.html
+    css: 
+      - css/govuk-frontend-5.4.1.min.css
